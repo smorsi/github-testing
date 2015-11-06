@@ -1,0 +1,5 @@
+#this is my gitignore file 
+
+*.html 
+
+!nonhiddenfile.html 
